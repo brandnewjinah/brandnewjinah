@@ -1,4 +1,6 @@
-### Hi, my name is Jinah 👋
+<h1>
+  <img src="https://raw.githubusercontent.com/brandnewjinah/brandnewjinah/master/jinah.png" alt="Jinah Lee" width="300"/>
+</h1>
 
 [![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
@@ -7,7 +9,8 @@
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![NodeJS Badge](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org/)
 
-
+🔭 I’m currently working on ...  
+<sub>Tutorial for full-stack Next.js e-commerce app with Redux, Express & MongoDB</sub>
 
 <!--
 **brandnewjinah/brandnewjinah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
